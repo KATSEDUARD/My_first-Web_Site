@@ -177,3 +177,6 @@ transition: 0.5s;
     margin-left: 352px;
     height: auto;
 }
+#grad{
+    background: linear-gradient(to right, #c3c1c1, #F67B5E);
+}
